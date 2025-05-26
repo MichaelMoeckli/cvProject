@@ -1,2 +1,15 @@
-dataset
-data
+# Python
+*.pyc
+__pycache__/
+
+# Lightning Logs
+lightning_logs/
+*.ckpt
+*.tfevents.*
+
+# Dataset (should be downloaded separately)
+data/
+
+# Editor + Environment
+.vscode/
+.env
