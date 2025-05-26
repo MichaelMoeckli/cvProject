@@ -1,0 +1,6 @@
+lightning
+torch
+torchvision
+transformers
+huggingface_hub
+scikit-learn
