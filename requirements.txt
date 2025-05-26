@@ -4,3 +4,4 @@ torchvision
 transformers
 huggingface_hub
 scikit-learn
+seaborn

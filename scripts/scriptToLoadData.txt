@@ -1,0 +1,13 @@
+pip install gdown
+
+mkdir -p data
+cd data
+
+# Download using gdown
+gdown --id 14q2Qf9mukDZTZWcHMgjLbECtGd_UESHj -O animals10.zip
+
+# Unzip it
+unzip animals10.zip
+
+# Optional: Clean up
+rm animals10.zip
