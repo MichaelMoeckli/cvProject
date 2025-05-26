@@ -7,9 +7,8 @@ This project uses transfer learning to classify images into 10 different animal 
 ## Name & URL
 | Name        | URL |
 |-------------|-----|
-| Huggingface | *Add link here* |
-| Model Page  | *Add link here* |
-| Code        | *Add GitHub link here* |
+| Model Page  | *https://huggingface.co/MichaelMM2000/animals10-resnet* |
+| Code        | *https://github.com/MichaelMoeckli/cvProject* |
 
 ## Labels
 The different animal classes are:  
