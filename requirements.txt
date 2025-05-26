@@ -1,7 +1,19 @@
-lightning
+# Core ML stack
 torch
 torchvision
+lightning
+
+# Hugging Face for zero-shot and upload
 transformers
 huggingface_hub
+
+# Data and evaluation
 scikit-learn
+pillow
+tqdm
+matplotlib
 seaborn
+
+# Optional: notebook use
+ipython
+jupyter
